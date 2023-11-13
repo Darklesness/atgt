@@ -1,13 +1,13 @@
 var currentQuestion = 0;
 var totalQuestions = 0;
-var userAnswers = new Array(totalQuestions).fill(null);
+var userAnswers = new Array(totalQuestions).fill("null");
 
 function fetchQuestions() {
     fetch('questions.json')
         .then(response => response.json())
         .then(data => {
             totalQuestions = data.length;
-            userAnswers = new Array(totalQuestions).fill(null);
+            userAnswers = new Array(totalQuestions).fill("null");
             showQuestion(currentQuestion);
         })
         .catch(error => console.error('Error fetching questions:', error));
