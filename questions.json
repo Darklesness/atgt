@@ -1,0 +1,253 @@
+[
+    {
+      "question": "Câu 1: Trên đường giao thông, khi hiệu lệnh của người điều khiển giao thông trái với hiệu lệnh của đèn hoặc biển báo thì người tham gia giao thông phải chấp hành theo hiệu lệnh nào?",
+      "options": [
+        "Hiệu lệnh của người điều khiển giao thông",
+        "Hiệu lệnh của biển báo hiệu đường bộ.",
+        "Hiệu lệnh của đèn điều khiển giao thông.",
+        "Hiệu lệnh nào cũng được "
+      ],
+      "correctAnswer": "Hiệu lệnh của người điều khiển giao thông"
+    },
+    {
+      "question": "Câu 2: Khi ở một khu vực đồng thời có đặt biển báo hiệu cố định và biển báo tạm thời mà ý nghĩa hiệu lực khác nhau, thì người lái xe phải chấp hành hiệu lệnh của biển nào?",
+      "options": [
+        "Biển báo hiệu tạm thời",
+        "Không chấp hành biển nào",
+        "Biển báo hiệu cố định.",
+        "Không có trường hợp này."
+      ],
+      "correctAnswer": "Biển báo hiệu tạm thời"
+    },
+    {
+      "question": "Câu 3: Có mấy loại dải phân cách?",
+      "options": [
+        "Loại cố định và đi động",
+        "Loại cố định",
+        "Loại di động",
+        "Loại bình thường"
+      ],
+      "correctAnswer": "Loại cố định và đi động"
+    },
+    {
+      "question": "Câu 4: “Người tham gia giao thông đường bộ” gồm những thành phần nào?",
+      "options": [
+        "Cả ba thành phần được nêu",
+        "Người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ.",
+        "Người điều khiển, dẫn dắt các con vật",
+        "Người đi bộ trên đường bộ"
+      ],
+      "correctAnswer": "Cả ba thành phần được nêu"
+    },
+    {
+      "question": "Câu 5: “Người điều khiển giao thông” gồm những thành phần nào?",
+      "options": [
+        "Cảnh sát giao thông, người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt.",
+        "Người điều khiển phương tiện tham gia giao thông",
+        "Không đáp án nào ở trên.",
+        "Người điều khiển phương tiện tham gia giao thông, người tham gia giao thông đường bộ."
+      ],
+      "correctAnswer": "Cảnh sát giao thông, người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt."
+    },
+    {
+      "question": "Câu 6: Người tham gia giao thông phải đi như thế nào là đúng quy tắc giao thông?",
+      "options": [
+        "Chấp hành hệ thống báo hiệu đường bộ",
+        "Tất cả các ý được nêu",
+        "Đi bên phải theo chiều đi của mình",
+        "Đi đúng phần đường quy định"
+      ],
+      "correctAnswer": "Tất cả các ý được nêu"
+    },
+    {
+      "question": "Câu 7: Khi đèn tín hiệu giao thông màu vàng bật sáng, người điều khiển phương tiện đi chưa đến vạch dừng thì phải làm gì?",
+      "options": [
+        "Được đi tiếp nhưng chỉ được rẽ phải",
+        "Được đi tiếp nhưng chỉ được rẽ trái",
+        "Dừng lại trước vạch dừng",
+        "Tiếp tục đi nhưng phải chú ý quan sát tránh gây tai nạn giao thông"
+      ],
+      "correctAnswer": "Dừng lại trước vạch dừng"
+    },
+    {
+      "question": "Câu 8: Xe cơ giới 2-3 bánh có được kéo đẩy nhau hoặc vật gì khác trên đường không?",
+      "options": [
+        "Tuyệt đối không",
+        "Được phép",
+        "Tuỳ trường hợp",
+        "Được kéo theo vật dưới 20 kg và kéo theo xe 2-3 bánh trong trường hợp khẩn chấp"
+      ],
+      "correctAnswer": "Tuyệt đối không"
+    },
+    {
+      "question": "Câu 9: Người điều khiển xe môtô trên 50 phân khối bắt buộc phải có giấy tờ gì?",
+      "options": [
+        "Tất cả những giấy tờ được nêu",
+        "Giấy phép lái xe",
+        "Chứng nhận đăng ký xe",
+        "Bảo hiểm dân sự"
+      ],
+      "correctAnswer": "Tất cả những giấy tờ được nêu"
+    },
+    {
+      "question": "Câu 10: Khi lái xe mô tô máy, để đảm bảo an toàn bạn cần làm gì?",
+      "options": [
+        "Chạy xe với tốc độ cao",
+        "Chạy xe gần mép đường",
+        "Tuân thủ nồng độ cồn đã quy định",
+        "Không cần đeo mũ an toàn nếu đi trong khu dân cư"
+      ],
+      "correctAnswer": "Tuân thủ nồng độ cồn đã quy định"
+    },
+    {
+        "question": "Câu 11: Người điều khiển xe môtô dưới 50 phân khối bắt buộc phải có giấy tờ gì?",
+        "options": [
+          "Giấy phép lái xe",
+          "Chứng nhận đăng ký xe",
+          "Bảo hiểm dân sự",
+          "Giấy chứng nhận đăng ký xe và bảo hiểm dân sự"
+        ],
+        "correctAnswer": "Giấy chứng nhận đăng ký xe và bảo hiểm dân sự"
+      },
+      {
+        "question": "Câu 12: Người điều khiển xe đạp máy, xe máy điện có bắt buộc đội mũ bảo hiểm không?",
+        "options": [
+          "Phải mang theo mũ bảo hiểm",
+          "Phải đội mũ bảo hiểm có cài quai đúng quy cách",
+          "Đội mũ nào cũng được",
+          "Không phải đội mũ bảo hiểm"
+        ],
+        "correctAnswer": "Phải đội mũ bảo hiểm có cài quai đúng quy cách"
+      },
+      {
+        "question": "Câu 13: Đèn tín hiệu giao thông dành cho người đi bộ có mấy màu?",
+        "options": [
+          "2 màu.",
+          "1 màu",
+          "3 màu",
+          "Không có đèn dành cho người đi bộ"
+        ],
+        "correctAnswer": "2 màu."
+      },
+      {
+        "question": "Câu 14: Tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến, người điều khiển phương tiện phải nhường đường như thế nào?",
+        "options": [
+          "Phải nhường đường cho xe đi bên phải.",
+          "Xe ôtô được nhường đi trước",
+          "Xe báo hiệu xin đường trước được đi trước",
+          "Phải nhường đường cho xe đi bên trái."
+        ],
+        "correctAnswer": "Phải nhường đường cho xe đi bên trái."
+      },
+      {
+        "question": "Câu 15: Tại nơi đường giao nhau giữa đường không ưu tiên và đường ưu tiên hoặc giữa đường nhánh và đường chính người lái xe phải xử lý như thế nào?",
+        "options": [
+          "Nhường đường cho xe chạy ở bên phải mình tới",
+          "Nhường đường cho xe chạy ở bên trái mình tới",
+          "Ai tranh được đường thì đi trước.",
+          "Nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới."
+        ],
+        "correctAnswer": "Nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới."
+      },
+      {
+        "question": "Câu 16: Trong đô thị trường hợp nào dưới đây xe không được dùng còi (trừ các xe ưu tiên theo Luật định)?",
+        "options": [
+          "Từ 22h đến 5h sáng hôm sau",
+          "Khi qua ngã ba, ngã tư, trong thành phố, thị xã, thị trấn đông người qua lại",
+          "Khi qua nơi có trường học trẻ em đi lại trên đường",
+          "Khi qua nơi đông người tụ họp, đi lại trên đường"
+        ],
+        "correctAnswer": "Từ 22h đến 5h sáng hôm sau"
+      },
+      {
+        "question": "Câu 17: Khi gặp một đoàn xe, một đoàn xe tang hay một đoàn người có tổ chức đi theo hàng ngũ, người lái xe phải xử lý như thế nào cho đúng quy tắc giao thông?",
+        "options": [
+          "Chạy chậm để người khác có thời gian tránh mình",
+          "Chửi bới, la hét bắt buộc đoàn người dạt ra cho xe mình đi",
+          "Chờ đoàn xe, đoàn người đi qua hết thì tiếp tục lưu thông",
+          "Bóp còi, rú ga để cắt ngang qua."
+        ],
+        "correctAnswer": "Chờ đoàn xe, đoàn người đi qua hết thì tiếp tục lưu thông"
+      },
+      {
+        "question": "Câu 18: Người điều khiển xe môtô hai bánh, ba bánh có dung tích xi lanh từ 50 cm3 trở lên phải đủ bao nhiêu tuổi?",
+        "options": [
+          "18 tuổi",
+          "16 tuổi",
+          "20 tuổi",
+          "25 tuổi"
+        ],
+        "correctAnswer": "18 tuổi"
+      },
+      {
+        "question": "Câu 19: Trên đường bộ trong khu vực đông dân cư xe môtô hai bánh, ba bánh, xe máy được lưu thông với tốc độ tối đa là bao nhiêu km/h?",
+        "options": [
+          "40km/h",
+          "30 km/h",
+          "50 km/h",
+          "35 km/h"
+        ],
+        "correctAnswer": "40km/h"
+      },
+      {
+        "question": "Câu 20: Người ngồi trên xe mô tô hai bánh, ba bánh, xe gắn máy khi tham gia giao thông có được mang vác vật cồng kềnh hay không?",
+        "options": [
+          "Không được mang vác vật cồng kềnh.",
+          "Được mang vác tùy trường hợp cụ thể",
+          "Được mang vác nhưng phải đảm bảo an toàn",
+          "Phải có giấy phép để được mang vác vật cồng kềnh"
+        ],
+        "correctAnswer": "Không được mang vác vật cồng kềnh."
+      },
+      {
+        "question": "Câu 21: Tại nơi đường giao nhau, khi người điều khiển giao thông ra hiệu lệnh bằng hai tay hoặc một tay giang ngang để báo hiệu thì người tham gia giao thông phải đi như thế nào là đúng quy tắc giao thông ?",
+        "options": [
+          "Không có ý nào đúng",
+          "Người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông được đi thẳng, người tham gia giao thông ở phía bên phải và bên trái người điều khiển được đi thẳng và rẽ phải.",
+          "Người tham gia giao thông ở tất cả các hướng phải dừng lại.",
+          "Người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại, người tham gia giao thông ở phía bên phải và bên trái người điều khiển được đi."
+        ],
+        "correctAnswer": "Người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại, người tham gia giao thông ở phía bên phải và bên trái người điều khiển được đi."
+      },
+      {
+        "question": "Câu 22: Tại nơi đường giao nhau, khi người điều khiển giao thông ra hiệu lệnh tay giơ thẳng đứng để báo hiệu thì tham gia giao thông phải đi như thế nào?",
+        "options": [
+          "Người tham gia giao thông ở các hướng phải dừng lại",
+          "Người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại, người tham gia giao thông ở phía bên phải và bên trái người điều khiển được đi.",
+          "Tiếp tục chạy như bình thường",
+          "Không có trường hợp nào"
+        ],
+        "correctAnswer": "Người tham gia giao thông ở các hướng phải dừng lại"
+      },
+      {
+        "question": "Câu 23: Trên đường một chiều có vạch kẻ phân làn đường, xe thô sơ và xe cơ giới phải đi như thế nào là đúng quy tắc giao thông?",
+        "options": [
+          "Xe thô sơ phải đi trên làn đường bên trái trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên phải",
+          "Đi sao cũng gì được miễn là cẩn thận",
+          "Xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái",
+          "Xe thô sơ phải đi trên làn đường phù hợp không gây cản trở giao thông, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên phải"
+        ],
+        "correctAnswer": "Xe thô sơ phải đi trên làn đường bên trái trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên phải"
+      },
+      {
+        "question": "Câu 24: Khi có tín hiệu của xe ưu tiên, người tham gia giao thông phải làm gì?",
+        "options": [
+          "Phải nhanh chóng giảm tốc độ, tránh hoặc dừng lại sát lề đường bên trái hoặc phải để nhường đường",
+          "Phải tăng tốc độ để tránh gây cản trở cho xe ưu tiên",
+          "Tiếp tục lưu thông bình thường",
+          "Phải nhanh chóng giảm tốc độ, tránh hoặc dừng lại sát lề đường bên phải để nhường đường. Không được gây cản trở xe được ưu tiên."
+        ],
+        "correctAnswer": "Phải nhanh chóng giảm tốc độ, tránh hoặc dừng lại sát lề đường bên phải để nhường đường. Không được gây cản trở xe được ưu tiên."
+      },    
+    {
+      "question": "Câu 25: Tại nơi đường giao nhau không có báo hiệu đi theo đường vòng xuyến, người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông?",
+      "options": [
+        "Phải nhường đường cho xe đi đến từ bên trái.",
+        "Không cần nhường ai.",
+        "Xe báo hiệu xin đường trước xe đó được đi trước",
+        "Phải nhường đường cho xe đi đến từ bên phải."
+      ],
+      "correctAnswer": "Phải nhường đường cho xe đi đến từ bên phải."
+    }
+  ]
+  

@@ -1,0 +1,87 @@
+.button-34 {
+    background: #f05d5d;
+    border-radius: 999px;
+    box-shadow: #f05d5d 0 10px 20px -10px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+    font-size: 2vh;
+    font-weight: 700;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 30vh;
+    height: 5vh;
+    word-break: break-word;
+    border: 0;
+    margin-bottom: 10px;
+  }
+
+  .button-34-2 {
+    background: #39a7ff;
+    border-radius: 999px;
+    box-shadow: #39a7ff 0 10px 20px -10px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+    font-size: 1.3vh;
+    font-weight: 700;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 30vh;
+    height: 5vh;
+    word-break: break-word;
+    border: 0;
+    margin-bottom: 10px;
+  }
+
+  .result-area {
+    background-color: #dadada;
+    display: none;
+  }
+  
+  .scrollable-paragraph {
+    height: 35vh; /* Set the desired height */
+    overflow-y: auto; /* Enable vertical scrolling */
+    border: 1px solid #ccc; /* Optional: Add a border for visibility */
+    padding: 10px; /* Optional: Add padding for better aesthetics */
+  }
+
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    align-items: center;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
+.pnt {
+    font-size: 7vh;
+    font-family: 'Patrick Hand', cursive;
+    margin-bottom: 0.5vh;
+}
+
+.num {
+    font-size: 6vh;
+    font-family: 'Patrick Hand', cursive;
+    margin-bottom: 1vh;
+  
+}
+
+body {
+    background-color: #FFEED9;
+}

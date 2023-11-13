@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Seymour+One&family=Shrikhand&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="quiz-style.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap" rel="stylesheet">
+		<title>TRAFFIC SAFETY</title>
+		<script type="text/javascript" src="code.js"></script>
+	</head>
+
+	<body>
+		<button class="button-34" onclick="window.location.href='index.html'">Back</button>
+		<button class="button-34-sub" onclick="submitQuiz()">Submit</button>
+		<div class = "quiz-screen" id="quiz-container">
+			<div class="question-container">
+				<div class="question" id="quiz-question">question</div>
+			</div>
+			<div class="options-container">
+				<ul class="options">
+
+				</ul>
+			</div>
+		</div>
+
+		<button class="button-34-pre" onclick="prevQuestion()">Previous</button>
+		<button class="button-34-next" onclick="nextQuestion()">Next</button>
+
+		<script>
+			fetchQuestions();
+		</script>
+	</body>
+</html>
