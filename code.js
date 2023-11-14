@@ -1,13 +1,13 @@
 var currentQuestion = 0;
 var totalQuestions = 0;
-var userAnswers = new Array(totalQuestions).fill("null");
+var userAnswers = new Array(totalQuestions).fill(null);
 
 function fetchQuestions() {
     fetch('questions.json')
         .then(response => response.json())
         .then(data => {
             totalQuestions = data.length;
-            userAnswers = new Array(totalQuestions).fill("null");
+            userAnswers = new Array(totalQuestions).fill(null);
             showQuestion(currentQuestion);
         })
         .catch(error => console.error('Error fetching questions:', error));
@@ -33,11 +33,11 @@ function showQuestion(questionNumber) {
             var optionElement = document.createElement('li');
             optionElement.className = 'option';
             optionElement.innerHTML = '<input type="radio" name="answer" id="' + inputId +
-                '" value="' + option + '" ' + (userAnswers[questionNumber] === option ? 'checked' : '') + '> ' +
+                '" value="' + option + '" ' + (questionData.options[userAnswers[questionNumber]] === option ? 'checked' : '') + '> ' +
                 '<label class="' + labelClass + '" for="' + inputId + '">' + option + '</label>';
 
             optionElement.addEventListener('change', function () {
-                userAnswers[questionNumber] = option;
+                userAnswers[questionNumber] = index;
             });
 
             optionsList.appendChild(optionElement);
@@ -62,9 +62,7 @@ function prevQuestion() {
 
 function processString(ans)
 {
-    var val = "";
-    for (var i = 0; i < ans.length; i++)
-        val += ans[i] + "|";
+    var val = JSON.stringify(ans);
     return val;
 }
 
@@ -75,8 +73,7 @@ function submitQuiz() {
     .then(response => response.json())
     .then(data => {
         for (var i = 0; i < totalQuestions; i++) {
-            console.log(userAnswers[i] === data[i].correctAnswer);
-            if (userAnswers[i] === data[i].correctAnswer) {
+            if (data[i].options[userAnswers[i]] === data[i].correctAnswer) {
                 score += 4;
             }
         }
