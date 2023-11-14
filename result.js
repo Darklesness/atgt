@@ -53,7 +53,7 @@ function viewResults() {
     }
     viewResultsCheck = true;
     document.getElementById("re-area").style.display = "block";
-    var userAnswers = getCookie("userAnswer").split("|");
+    var userAnswers = JSON.parse(getCookie("userAnswer"));
     var totalQuestions = getCookie("totalQuestions");
     var resultContainer = document.getElementById('result');
     resultContainer.innerHTML = '';
@@ -62,13 +62,13 @@ function viewResults() {
     .then(response => response.json())
     .then(data => {
         for (var i = 0; i < totalQuestions; i++) {
-            if (userAnswers[i] == data[i].correctAnswer)
+            if (data[i].options[userAnswers[i]] == data[i].correctAnswer)
                 resultContainer.innerHTML += '<p style="color: green;"><strong>Question ' + (i + 1) + ':</strong> ' +
-                    '<u>Your Answer:</u> ' + userAnswers[i] +
+                    '<u>Your Answer:</u> ' + data[i].options[userAnswers[i]] +
                     ', <u>Correct Answer:</u> ' + data[i].correctAnswer + '</p>';
             else 
                 resultContainer.innerHTML += '<p style="color: red;"><strong>Question ' + (i + 1) + ':</strong> ' +
-                '<u>Your Answer:</u> ' + (userAnswers[i] != "null" ? userAnswers[i] : 'Not answered') +
+                '<u>Your Answer:</u> ' + (userAnswers[i] != null ? data[i].options[userAnswers[i]] : 'Not answered') +
                 ', <u>Correct Answer:</u> ' + data[i].correctAnswer + '</p>';
             
         }
